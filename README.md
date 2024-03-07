@@ -46,6 +46,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Brody Rethy - [@rethyxyz](https://rethy.xyz)
+Brody Rethy - [rethy.xyz](https://rethy.xyz)
 
 Project Link: [https://github.com/rethyxyz/FTPAutomator](https://github.com/rethyxyz/FTPAutomator)
