@@ -1,5 +1,6 @@
 import ftplib
 import logging
+import rethyxyz.rethyxyz
 
 # Setup logging
 logging.basicConfig(filename='ftp_session.log',
@@ -62,6 +63,9 @@ def try_login(ip):
 
 def main():
     filename = "ips.txt"
+
+    rethyxyz.rethyxyz.show_intro("FTPAutomator")
+
     try:
         with open(filename, 'r') as file:
             ips = file.readlines()
